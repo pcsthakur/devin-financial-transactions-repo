@@ -1,0 +1,101 @@
+transaction_id,risk_score,risk_level,explanation
+TXN-0001,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0002,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0003,30,LOW,Risky transaction type (TRANSFER); Entire origin balance drained to zero; Destination account had zero prior balance (new/unseen account)
+TXN-0004,30,LOW,Risky transaction type (CASH_OUT); Entire origin balance drained to zero
+TXN-0005,20,LOW,"High transaction amount (11,668.14 > 10,000); Destination account had zero prior balance (new/unseen account)"
+TXN-0006,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0007,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0008,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0009,25,LOW,"Entire origin balance drained to zero; Destination account had zero prior balance (new/unseen account); Transaction amount (4,024.36) exceeds origin balance (2,671.00)"
+TXN-0010,0,LOW,No significant risk signals detected
+TXN-0011,20,LOW,"Entire origin balance drained to zero; Transaction amount (9,644.94) exceeds origin balance (4,465.00)"
+TXN-0012,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0013,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0014,40,MEDIUM,"High transaction amount (11,633.76 > 10,000); Entire origin balance drained to zero; Destination account had zero prior balance (new/unseen account); Transaction amount (11,633.76) exceeds origin balance (10,127.00)"
+TXN-0015,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0016,65,MEDIUM,"Very high transaction amount (229,133.94 > 100,000); Risky transaction type (CASH_OUT); Entire origin balance drained to zero; Transaction amount (229,133.94) exceeds origin balance (15,325.00)"
+TXN-0017,25,LOW,"Entire origin balance drained to zero; Destination account had zero prior balance (new/unseen account); Transaction amount (1,563.82) exceeds origin balance (450.00)"
+TXN-0018,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0019,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0020,60,MEDIUM,"Very high transaction amount (215,310.30 > 100,000); Risky transaction type (TRANSFER); Entire origin balance drained to zero; Transaction amount (215,310.30) exceeds origin balance (705.00)"
+TXN-0021,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0022,0,LOW,No significant risk signals detected
+TXN-0023,0,LOW,No significant risk signals detected
+TXN-0024,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0025,60,MEDIUM,"Very high transaction amount (311,685.89 > 100,000); Risky transaction type (TRANSFER); Entire origin balance drained to zero; Transaction amount (311,685.89) exceeds origin balance (10,835.00)"
+TXN-0026,25,LOW,"Entire origin balance drained to zero; Destination account had zero prior balance (new/unseen account); Transaction amount (6,061.13) exceeds origin balance (443.00)"
+TXN-0027,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0028,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0029,25,LOW,"Entire origin balance drained to zero; Destination account had zero prior balance (new/unseen account); Transaction amount (8,901.99) exceeds origin balance (2,958.91)"
+TXN-0030,15,LOW,Origin account has zero balance but initiated a transaction; Destination account had zero prior balance (new/unseen account)
+TXN-0031,15,LOW,Origin account has zero balance but initiated a transaction; Destination account had zero prior balance (new/unseen account)
+TXN-0032,15,LOW,Origin account has zero balance but initiated a transaction; Destination account had zero prior balance (new/unseen account)
+TXN-0033,15,LOW,Origin account has zero balance but initiated a transaction; Destination account had zero prior balance (new/unseen account)
+TXN-0034,15,LOW,Origin account has zero balance but initiated a transaction; Destination account had zero prior balance (new/unseen account)
+TXN-0035,15,LOW,Origin account has zero balance but initiated a transaction; Destination account had zero prior balance (new/unseen account)
+TXN-0036,30,LOW,"High transaction amount (24,213.67 > 10,000); Origin account has zero balance but initiated a transaction; Destination account had zero prior balance (new/unseen account)"
+TXN-0037,25,LOW,"Entire origin balance drained to zero; Destination account had zero prior balance (new/unseen account); Transaction amount (8,603.42) exceeds origin balance (253.00)"
+TXN-0038,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0039,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0040,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0041,25,LOW,"Entire origin balance drained to zero; Destination account had zero prior balance (new/unseen account); Transaction amount (1,684.81) exceeds origin balance (297.00)"
+TXN-0042,0,LOW,No significant risk signals detected
+TXN-0043,73,HIGH,"Very high transaction amount (110,414.71 > 100,000); Risky transaction type (CASH_OUT); Repeated destination account C1509514333 (2 incoming transactions); Entire origin balance drained to zero; Transaction amount (110,414.71) exceeds origin balance (26,845.41)"
+TXN-0044,25,LOW,"Entire origin balance drained to zero; Destination account had zero prior balance (new/unseen account); Transaction amount (7,823.46) exceeds origin balance (998.00)"
+TXN-0045,15,LOW,Origin account has zero balance but initiated a transaction; Destination account had zero prior balance (new/unseen account)
+TXN-0046,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0047,20,LOW,"High transaction amount (13,875.98 > 10,000); Destination account had zero prior balance (new/unseen account)"
+TXN-0048,55,MEDIUM,"High transaction amount (56,953.90 > 10,000); Risky transaction type (CASH_OUT); Entire origin balance drained to zero; Transaction amount (56,953.90) exceeds origin balance (1,942.02)"
+TXN-0049,30,LOW,Risky transaction type (CASH_OUT); Origin account has zero balance but initiated a transaction
+TXN-0050,25,LOW,"Entire origin balance drained to zero; Destination account had zero prior balance (new/unseen account); Transaction amount (2,204.04) exceeds origin balance (586.00)"
+TXN-0051,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0052,55,MEDIUM,"High transaction amount (23,261.30 > 10,000); Risky transaction type (CASH_OUT); Entire origin balance drained to zero; Transaction amount (23,261.30) exceeds origin balance (20,411.53)"
+TXN-0053,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0054,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0055,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0056,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0057,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0058,25,LOW,"Entire origin balance drained to zero; Destination account had zero prior balance (new/unseen account); Transaction amount (2,252.44) exceeds origin balance (1,627.00)"
+TXN-0059,30,LOW,"High transaction amount (62,610.80 > 10,000); Risky transaction type (TRANSFER)"
+TXN-0060,0,LOW,No significant risk signals detected
+TXN-0061,55,MEDIUM,"High transaction amount (82,940.31 > 10,000); Risky transaction type (CASH_OUT); Entire origin balance drained to zero; Transaction amount (82,940.31) exceeds origin balance (3,017.87)"
+TXN-0062,0,LOW,No significant risk signals detected
+TXN-0063,0,LOW,No significant risk signals detected
+TXN-0064,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0065,20,LOW,"Entire origin balance drained to zero; Transaction amount (4,874.49) exceeds origin balance (153.00)"
+TXN-0066,25,LOW,"Entire origin balance drained to zero; Destination account had zero prior balance (new/unseen account); Transaction amount (6,440.78) exceeds origin balance (2,192.00)"
+TXN-0067,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0068,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0069,28,LOW,"Repeated destination account C1330106945 (2 incoming transactions); Entire origin balance drained to zero; Transaction amount (5,149.66) exceeds origin balance (4,782.00)"
+TXN-0070,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0071,35,LOW,"High transaction amount (47,458.86 > 10,000); Risky transaction type (CASH_OUT)"
+TXN-0072,56,MEDIUM,"Very high transaction amount (136,872.92 > 100,000); Risky transaction type (CASH_OUT); Repeated destination account C766572210 (3 incoming transactions)"
+TXN-0073,55,MEDIUM,"High transaction amount (94,253.33 > 10,000); Risky transaction type (CASH_OUT); Entire origin balance drained to zero; Transaction amount (94,253.33) exceeds origin balance (25,203.05)"
+TXN-0074,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0075,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0076,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0077,25,LOW,"Entire origin balance drained to zero; Destination account had zero prior balance (new/unseen account); Transaction amount (2,131.84) exceeds origin balance (224.00)"
+TXN-0078,20,LOW,"High transaction amount (12,986.61 > 10,000); Destination account had zero prior balance (new/unseen account)"
+TXN-0079,58,MEDIUM,"High transaction amount (42,712.39 > 10,000); Risky transaction type (TRANSFER); Repeated destination account C1330106945 (2 incoming transactions); Entire origin balance drained to zero; Transaction amount (42,712.39) exceeds origin balance (10,363.39)"
+TXN-0080,40,MEDIUM,"High transaction amount (77,957.68 > 10,000); Risky transaction type (TRANSFER); Origin account has zero balance but initiated a transaction"
+TXN-0081,40,MEDIUM,"High transaction amount (17,231.46 > 10,000); Risky transaction type (TRANSFER); Origin account has zero balance but initiated a transaction"
+TXN-0082,40,MEDIUM,"High transaction amount (78,766.03 > 10,000); Risky transaction type (TRANSFER); Origin account has zero balance but initiated a transaction"
+TXN-0083,61,MEDIUM,"Very high transaction amount (224,606.64 > 100,000); Risky transaction type (TRANSFER); Repeated destination account C766572210 (3 incoming transactions); Origin account has zero balance but initiated a transaction"
+TXN-0084,58,MEDIUM,"Very high transaction amount (125,872.53 > 100,000); Risky transaction type (TRANSFER); Repeated destination account C392292416 (2 incoming transactions); Origin account has zero balance but initiated a transaction"
+TXN-0085,65,MEDIUM,"Very high transaction amount (379,856.23 > 100,000); Risky transaction type (TRANSFER); Repeated destination account C1590550415 (5 incoming transactions); Origin account has zero balance but initiated a transaction"
+TXN-0086,55,MEDIUM,"Extreme transaction amount (1,505,626.01 > 500,000); Risky transaction type (TRANSFER); Origin account has zero balance but initiated a transaction"
+TXN-0087,66,MEDIUM,"Extreme transaction amount (554,026.99 > 500,000); Risky transaction type (TRANSFER); Repeated destination account C766572210 (3 incoming transactions); Origin account has zero balance but initiated a transaction"
+TXN-0088,61,MEDIUM,"Very high transaction amount (147,543.10 > 100,000); Risky transaction type (TRANSFER); Repeated destination account C1359044626 (3 incoming transactions); Origin account has zero balance but initiated a transaction"
+TXN-0089,70,MEDIUM,"Extreme transaction amount (761,507.39 > 500,000); Risky transaction type (TRANSFER); Repeated destination account C1590550415 (5 incoming transactions); Origin account has zero balance but initiated a transaction"
+TXN-0090,70,MEDIUM,"Extreme transaction amount (1,429,051.47 > 500,000); Risky transaction type (TRANSFER); Repeated destination account C1590550415 (5 incoming transactions); Origin account has zero balance but initiated a transaction"
+TXN-0091,58,MEDIUM,"Very high transaction amount (358,831.92 > 100,000); Risky transaction type (TRANSFER); Repeated destination account C392292416 (2 incoming transactions); Origin account has zero balance but initiated a transaction"
+TXN-0092,61,MEDIUM,"Very high transaction amount (367,768.40 > 100,000); Risky transaction type (TRANSFER); Repeated destination account C1359044626 (3 incoming transactions); Origin account has zero balance but initiated a transaction"
+TXN-0093,58,MEDIUM,"Very high transaction amount (209,711.11 > 100,000); Risky transaction type (TRANSFER); Repeated destination account C1509514333 (2 incoming transactions); Origin account has zero balance but initiated a transaction"
+TXN-0094,55,MEDIUM,"Extreme transaction amount (583,848.46 > 500,000); Risky transaction type (TRANSFER); Origin account has zero balance but initiated a transaction"
+TXN-0095,70,MEDIUM,"Extreme transaction amount (1,724,887.05 > 500,000); Risky transaction type (TRANSFER); Repeated destination account C1590550415 (5 incoming transactions); Origin account has zero balance but initiated a transaction"
+TXN-0096,66,MEDIUM,"Extreme transaction amount (710,544.77 > 500,000); Risky transaction type (TRANSFER); Repeated destination account C1359044626 (3 incoming transactions); Origin account has zero balance but initiated a transaction"
+TXN-0097,70,MEDIUM,"Extreme transaction amount (581,294.26 > 500,000); Risky transaction type (TRANSFER); Repeated destination account C1590550415 (5 incoming transactions); Origin account has zero balance but initiated a transaction"
+TXN-0098,40,MEDIUM,"High transaction amount (11,996.58 > 10,000); Risky transaction type (TRANSFER); Origin account has zero balance but initiated a transaction"
+TXN-0099,5,LOW,Destination account had zero prior balance (new/unseen account)
+TXN-0100,25,LOW,"Entire origin balance drained to zero; Destination account had zero prior balance (new/unseen account); Transaction amount (8,586.98) exceeds origin balance (3,763.00)"
