@@ -1,0 +1,101 @@
+transaction_id,type,amount,nameOrig,nameDest,risk_score,risk_level,explanation
+1,PAYMENT,9839.64,C1231006815,M1979787155,5.0,LOW,No significant risk signals detected
+2,PAYMENT,1864.28,C1666544295,M2044282225,0.0,LOW,No significant risk signals detected
+3,TRANSFER,181.0,C1305486145,C553264065,40.0,MEDIUM,Risky transaction type (TRANSFER); Account fully drained after transaction; Transaction amount equals or exceeds full account balance
+4,CASH_OUT,181.0,C840083671,C38997010,50.0,MEDIUM,Risky transaction type (CASH_OUT); Account fully drained after transaction; Destination account balance dropped to zero despite receiving funds; Transaction amount equals or exceeds full account balance
+5,PAYMENT,11668.14,C2048537720,M1230701703,12.5,LOW,"High transaction amount ($11,668.14)"
+6,PAYMENT,7817.71,C90045638,M573487274,5.0,LOW,No significant risk signals detected
+7,PAYMENT,7107.77,C154988899,M408069119,5.0,LOW,No significant risk signals detected
+8,PAYMENT,7861.64,C1912850431,M633326333,5.0,LOW,No significant risk signals detected
+9,PAYMENT,4024.36,C1265012928,M1176932104,20.0,LOW,Account fully drained after transaction; Transaction amount equals or exceeds full account balance
+10,DEBIT,5337.77,C712410124,C195600860,11.0,LOW,No significant risk signals detected
+11,DEBIT,9644.94,C1900366749,C997608398,31.0,LOW,Account fully drained after transaction; Transaction amount equals or exceeds full account balance
+12,PAYMENT,3099.97,C249177573,M2096539129,0.0,LOW,No significant risk signals detected
+13,PAYMENT,2560.74,C1648232591,M972865270,0.0,LOW,No significant risk signals detected
+14,PAYMENT,11633.76,C1716932897,M801569151,32.5,LOW,"High transaction amount ($11,633.76); Account fully drained after transaction; Transaction amount equals or exceeds full account balance"
+15,PAYMENT,4098.78,C1026483832,M1635378213,0.0,LOW,No significant risk signals detected
+16,CASH_OUT,229133.94,C905080434,C476402209,60.0,MEDIUM,"High transaction amount ($229,133.94); Risky transaction type (CASH_OUT); Account fully drained after transaction; Transaction amount equals or exceeds full account balance"
+17,PAYMENT,1563.82,C761750706,M1731217984,20.0,LOW,Account fully drained after transaction; Transaction amount equals or exceeds full account balance
+18,PAYMENT,1157.86,C1237762639,M1877062907,0.0,LOW,No significant risk signals detected
+19,PAYMENT,671.64,C2033524545,M473053293,0.0,LOW,No significant risk signals detected
+20,TRANSFER,215310.3,C1670993182,C1100439041,70.0,MEDIUM,"High transaction amount ($215,310.30); Risky transaction type (TRANSFER); Account fully drained after transaction; Destination account balance dropped to zero despite receiving funds; Transaction amount equals or exceeds full account balance"
+21,PAYMENT,1373.43,C20804602,M1344519051,0.0,LOW,No significant risk signals detected
+22,DEBIT,9302.79,C1566511282,C1973538135,11.0,LOW,No significant risk signals detected
+23,DEBIT,1065.41,C1959239586,C515132998,16.0,LOW,Destination account balance dropped to zero despite receiving funds
+24,PAYMENT,3876.41,C504336483,M1404932042,0.0,LOW,No significant risk signals detected
+25,TRANSFER,311685.89,C1984094095,C932583850,60.0,MEDIUM,"High transaction amount ($311,685.89); Risky transaction type (TRANSFER); Account fully drained after transaction; Transaction amount equals or exceeds full account balance"
+26,PAYMENT,6061.13,C1043358826,M1558079303,25.0,LOW,Account fully drained after transaction; Transaction amount equals or exceeds full account balance
+27,PAYMENT,9478.39,C1671590089,M58488213,5.0,LOW,No significant risk signals detected
+28,PAYMENT,8009.09,C1053967012,M295304806,5.0,LOW,No significant risk signals detected
+29,PAYMENT,8901.99,C1632497828,M33419717,25.0,LOW,Account fully drained after transaction; Transaction amount equals or exceeds full account balance
+30,PAYMENT,9920.52,C764826684,M1940055334,15.0,LOW,Originating account had zero balance
+31,PAYMENT,3448.92,C2103763750,M335107734,10.0,LOW,Originating account had zero balance
+32,PAYMENT,4206.84,C215078753,M1757317128,10.0,LOW,Originating account had zero balance
+33,PAYMENT,5885.56,C840514538,M1804441305,15.0,LOW,Originating account had zero balance
+34,PAYMENT,5307.88,C1768242710,M1971783162,15.0,LOW,Originating account had zero balance
+35,PAYMENT,5031.22,C247113419,M151442075,15.0,LOW,Originating account had zero balance
+36,PAYMENT,24213.67,C1238616099,M70695990,22.5,LOW,"High transaction amount ($24,213.67); Originating account had zero balance"
+37,PAYMENT,8603.42,C1608633989,M1615617512,25.0,LOW,Account fully drained after transaction; Transaction amount equals or exceeds full account balance
+38,PAYMENT,2791.42,C923341586,M107994825,0.0,LOW,No significant risk signals detected
+39,PAYMENT,7413.54,C1470868839,M1426725223,5.0,LOW,No significant risk signals detected
+40,PAYMENT,3295.19,C711197015,M1384454980,0.0,LOW,No significant risk signals detected
+41,PAYMENT,1684.81,C1481594086,M1569435561,20.0,LOW,Account fully drained after transaction; Transaction amount equals or exceeds full account balance
+42,DEBIT,5758.59,C1466917878,C1297685781,11.0,LOW,No significant risk signals detected
+43,CASH_OUT,110414.71,C768216420,C1509514333,64.5,MEDIUM,"High transaction amount ($110,414.71); Risky transaction type (CASH_OUT); Account fully drained after transaction; Destination account (C1509514333) received 2 transactions; Transaction amount equals or exceeds full account balance"
+44,PAYMENT,7823.46,C260084831,M267814113,25.0,LOW,Account fully drained after transaction; Transaction amount equals or exceeds full account balance
+45,PAYMENT,5086.48,C598357562,M1593224710,15.0,LOW,Originating account had zero balance
+46,PAYMENT,5281.48,C1440738283,M1849015357,5.0,LOW,No significant risk signals detected
+47,PAYMENT,13875.98,C484199463,M2008106788,12.5,LOW,"High transaction amount ($13,875.98)"
+48,CASH_OUT,56953.9,C1570470538,C824009085,52.5,MEDIUM,"High transaction amount ($56,953.90); Risky transaction type (CASH_OUT); Account fully drained after transaction; Transaction amount equals or exceeds full account balance"
+49,CASH_OUT,5346.89,C512549200,C248609774,35.0,LOW,Risky transaction type (CASH_OUT); Originating account had zero balance
+50,PAYMENT,2204.04,C1615801298,M490391704,20.0,LOW,Account fully drained after transaction; Transaction amount equals or exceeds full account balance
+51,PAYMENT,2641.47,C460570271,M1653361344,0.0,LOW,No significant risk signals detected
+52,CASH_OUT,23261.3,C2072313080,C2001112025,62.5,MEDIUM,"High transaction amount ($23,261.30); Risky transaction type (CASH_OUT); Account fully drained after transaction; Destination account balance dropped to zero despite receiving funds; Transaction amount equals or exceeds full account balance"
+53,PAYMENT,2330.64,C816944408,M909132503,0.0,LOW,No significant risk signals detected
+54,PAYMENT,1614.64,C912966811,M1792384402,0.0,LOW,No significant risk signals detected
+55,PAYMENT,9164.71,C1458621573,M1658980982,5.0,LOW,No significant risk signals detected
+56,PAYMENT,2970.97,C46941357,M1152606315,0.0,LOW,No significant risk signals detected
+57,PAYMENT,38.66,C343345308,M1714688478,0.0,LOW,No significant risk signals detected
+58,PAYMENT,2252.44,C104716441,M1506951181,20.0,LOW,Account fully drained after transaction; Transaction amount equals or exceeds full account balance
+59,TRANSFER,62610.8,C1976401987,C1937962514,32.5,LOW,"High transaction amount ($62,610.80); Risky transaction type (TRANSFER)"
+60,DEBIT,5529.13,C867288517,C242131142,21.0,LOW,Destination account balance dropped to zero despite receiving funds
+61,CASH_OUT,82940.31,C1528834618,C476800120,52.5,MEDIUM,"High transaction amount ($82,940.31); Risky transaction type (CASH_OUT); Account fully drained after transaction; Transaction amount equals or exceeds full account balance"
+62,DEBIT,4510.22,C280615803,C1254526270,16.0,LOW,Destination account balance dropped to zero despite receiving funds
+63,DEBIT,8727.74,C166694583,C1129670968,21.0,LOW,Destination account balance dropped to zero despite receiving funds
+64,PAYMENT,2599.46,C885910946,M1860591867,0.0,LOW,No significant risk signals detected
+65,DEBIT,4874.49,C811207775,C1971489295,36.0,LOW,Account fully drained after transaction; Destination account balance dropped to zero despite receiving funds; Transaction amount equals or exceeds full account balance
+66,PAYMENT,6440.78,C1161148117,M516875052,25.0,LOW,Account fully drained after transaction; Transaction amount equals or exceeds full account balance
+67,PAYMENT,4910.14,C1131592118,M589987187,0.0,LOW,No significant risk signals detected
+68,PAYMENT,6444.64,C1262609629,M587180314,5.0,LOW,No significant risk signals detected
+69,DEBIT,5149.66,C1955990522,C1330106945,35.5,LOW,Account fully drained after transaction; Destination account (C1330106945) received 2 transactions; Transaction amount equals or exceeds full account balance
+70,PAYMENT,7292.16,C69673470,M1082411691,5.0,LOW,No significant risk signals detected
+71,CASH_OUT,47458.86,C527211736,C2096057945,42.5,MEDIUM,"High transaction amount ($47,458.86); Risky transaction type (CASH_OUT); Destination account balance dropped to zero despite receiving funds"
+72,CASH_OUT,136872.92,C1533123860,C766572210,59.0,MEDIUM,"High transaction amount ($136,872.92); Risky transaction type (CASH_OUT); Destination account (C766572210) received 3 transactions; Destination account balance dropped to zero despite receiving funds"
+73,CASH_OUT,94253.33,C1718906711,C977993101,52.5,MEDIUM,"High transaction amount ($94,253.33); Risky transaction type (CASH_OUT); Account fully drained after transaction; Transaction amount equals or exceeds full account balance"
+74,PAYMENT,2998.04,C71802912,M2134271532,0.0,LOW,No significant risk signals detected
+75,PAYMENT,3454.08,C686349795,M1831010686,0.0,LOW,No significant risk signals detected
+76,PAYMENT,4316.2,C1423768154,M404222443,0.0,LOW,No significant risk signals detected
+77,PAYMENT,2131.84,C1987977423,M61073295,20.0,LOW,Account fully drained after transaction; Transaction amount equals or exceeds full account balance
+78,PAYMENT,12986.61,C807322507,M396485834,12.5,LOW,"High transaction amount ($12,986.61)"
+79,TRANSFER,42712.39,C283039401,C1330106945,57.0,MEDIUM,"High transaction amount ($42,712.39); Risky transaction type (TRANSFER); Account fully drained after transaction; Destination account (C1330106945) received 2 transactions; Transaction amount equals or exceeds full account balance"
+80,TRANSFER,77957.68,C207471778,C1761291320,42.5,MEDIUM,"High transaction amount ($77,957.68); Risky transaction type (TRANSFER); Originating account had zero balance"
+81,TRANSFER,17231.46,C1243171897,C783286238,52.5,MEDIUM,"High transaction amount ($17,231.46); Risky transaction type (TRANSFER); Originating account had zero balance; Destination account balance dropped to zero despite receiving funds"
+82,TRANSFER,78766.03,C1376151044,C1749186397,42.5,MEDIUM,"High transaction amount ($78,766.03); Risky transaction type (TRANSFER); Originating account had zero balance"
+83,TRANSFER,224606.64,C873175411,C766572210,69.0,MEDIUM,"High transaction amount ($224,606.64); Risky transaction type (TRANSFER); Destination account (C766572210) received 3 transactions; Originating account had zero balance; Destination account balance dropped to zero despite receiving funds"
+84,TRANSFER,125872.53,C1443967876,C392292416,54.5,MEDIUM,"High transaction amount ($125,872.53); Risky transaction type (TRANSFER); Destination account (C392292416) received 2 transactions; Originating account had zero balance"
+85,TRANSFER,379856.23,C1449772539,C1590550415,65.0,MEDIUM,"High transaction amount ($379,856.23); Risky transaction type (TRANSFER); Destination account (C1590550415) received 5 transactions; Originating account had zero balance"
+86,TRANSFER,1505626.01,C926859124,C665576141,55.0,MEDIUM,"High transaction amount ($1,505,626.01); Risky transaction type (TRANSFER); Originating account had zero balance"
+87,TRANSFER,554026.99,C1603696865,C766572210,74.0,HIGH,"High transaction amount ($554,026.99); Risky transaction type (TRANSFER); Destination account (C766572210) received 3 transactions; Originating account had zero balance; Destination account balance dropped to zero despite receiving funds"
+88,TRANSFER,147543.1,C12905860,C1359044626,59.0,MEDIUM,"High transaction amount ($147,543.10); Risky transaction type (TRANSFER); Destination account (C1359044626) received 3 transactions; Originating account had zero balance"
+89,TRANSFER,761507.39,C412788346,C1590550415,70.0,MEDIUM,"High transaction amount ($761,507.39); Risky transaction type (TRANSFER); Destination account (C1590550415) received 5 transactions; Originating account had zero balance"
+90,TRANSFER,1429051.47,C1520267010,C1590550415,70.0,MEDIUM,"High transaction amount ($1,429,051.47); Risky transaction type (TRANSFER); Destination account (C1590550415) received 5 transactions; Originating account had zero balance"
+91,TRANSFER,358831.92,C908084672,C392292416,54.5,MEDIUM,"High transaction amount ($358,831.92); Risky transaction type (TRANSFER); Destination account (C392292416) received 2 transactions; Originating account had zero balance"
+92,TRANSFER,367768.4,C288306765,C1359044626,59.0,MEDIUM,"High transaction amount ($367,768.40); Risky transaction type (TRANSFER); Destination account (C1359044626) received 3 transactions; Originating account had zero balance"
+93,TRANSFER,209711.11,C1556867940,C1509514333,54.5,MEDIUM,"High transaction amount ($209,711.11); Risky transaction type (TRANSFER); Destination account (C1509514333) received 2 transactions; Originating account had zero balance"
+94,TRANSFER,583848.46,C1839168128,C1286084959,55.0,MEDIUM,"High transaction amount ($583,848.46); Risky transaction type (TRANSFER); Originating account had zero balance"
+95,TRANSFER,1724887.05,C1495608502,C1590550415,70.0,MEDIUM,"High transaction amount ($1,724,887.05); Risky transaction type (TRANSFER); Destination account (C1590550415) received 5 transactions; Originating account had zero balance"
+96,TRANSFER,710544.77,C835773569,C1359044626,64.0,MEDIUM,"High transaction amount ($710,544.77); Risky transaction type (TRANSFER); Destination account (C1359044626) received 3 transactions; Originating account had zero balance"
+97,TRANSFER,581294.26,C843299092,C1590550415,70.0,MEDIUM,"High transaction amount ($581,294.26); Risky transaction type (TRANSFER); Destination account (C1590550415) received 5 transactions; Originating account had zero balance"
+98,TRANSFER,11996.58,C605982374,C1225616405,52.5,MEDIUM,"High transaction amount ($11,996.58); Risky transaction type (TRANSFER); Originating account had zero balance; Destination account balance dropped to zero despite receiving funds"
+99,PAYMENT,2875.1,C1412322831,M1651262695,0.0,LOW,No significant risk signals detected
+100,PAYMENT,8586.98,C1305004711,M494077446,25.0,LOW,Account fully drained after transaction; Transaction amount equals or exceeds full account balance
